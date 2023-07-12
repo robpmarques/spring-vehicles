@@ -3,7 +3,7 @@ VehiclesService is an [Spring Boot](https://spring.io/guides/gs/spring-boot) app
 
 
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/robpmarques/spring-vehicles
 cd VehiclesService
 ./mvnw package
 java -jar target/*.jar
