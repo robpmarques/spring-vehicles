@@ -1,8 +1,5 @@
 package bubble_sort;
 
-import election.Election;
-import election.ElectionReport;
-
 import java.util.Arrays;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
