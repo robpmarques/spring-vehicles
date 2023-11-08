@@ -27,7 +27,7 @@ $ docker-compose postgres up
 
 1) On the command line run:
     ```
-    git clone https://github.com/spring-projects/spring-petclinic.git
+    git clone https://github.com/robpmarques/spring-vehicles.git
     ```
 
 2) IDEA of Preference
