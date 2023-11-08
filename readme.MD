@@ -9,7 +9,7 @@ cd spring-vehicles
 java -jar target/*.jar
 ```
 
-You can then access petclinic at http://localhost:8080/
+You can then access VehiclesService at http://localhost:8080/
 
 ```
 ./mvnw spring-boot:run
